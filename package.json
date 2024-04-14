@@ -1,0 +1,20 @@
+{
+  "name": "danish-simple-cli-calculator",
+  "version": "1.0.0",
+  "description": "A simple commad line calculator , with typescript , nodejs ,and inquirer, made by Danish Ali Gul.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danish Ali Gul",
+  "license": "MIT",
+  "dependencies": {
+    "danish-simple-cli-calculator": "^1.0.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
